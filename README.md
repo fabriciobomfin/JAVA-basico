@@ -3,4 +3,4 @@ codigos do java
 
 estudar get e set
 
-insect code git hub ver
+ver se tem insect code no git hub 
